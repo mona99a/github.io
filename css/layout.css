@@ -331,7 +331,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: photoshop 2s ease;
 }
 .c-plus-plus {
-  	width: 50%;
+  	width: 80%;
   	-moz-animation: c++ 2s ease;
   	-webkit-animation: c++ 2s ease;
 }
@@ -358,7 +358,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes c-plus-plus {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 80%;  }
 }
 @-moz-keyframes java {
   0%   { width: 0px;  }
@@ -379,7 +379,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes c-plus-plus {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 80%;  }
 }
 @-moz-keyframes java {
   0%   { width: 0px;  }
