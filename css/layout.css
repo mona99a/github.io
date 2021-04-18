@@ -351,26 +351,15 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: latex 2s ease;
   	-webkit-animation: latex 2s ease;
 }
-
-@-moz-keyframes photoshop {
-  0%   { width: 0px;  }
-  100% { width: 95%;  }
+.html-css {
+  	width: 30%;
+  	-moz-animation: HTML&Css 2s ease;
+  	-webkit-animation: HTML&Css 2s ease;
 }
-@-moz-keyframes c-plus-plus {
-  0%   { width: 0px;  }
-  100% { width: 80%;  }
-}
-@-moz-keyframes java {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
-}
-@-moz-keyframes office {
-  0%   { width: 0px;  }
-  100% { width: 90%;  }
-}
-@-moz-keyframes latex {
-  0%   { width: 0px;  }
-  100% { width: 90%;  }
+.ui {
+  	width: 90%;
+  	-moz-animation: ui 2s ease;
+  	-webkit-animation: ui 2s ease;
 }
 
 @-moz-keyframes photoshop {
@@ -392,6 +381,43 @@ ul#nav li.current a { color: #F06000; }
 @-moz-keyframes latex {
   0%   { width: 0px;  }
   100% { width: 90%;  }
+}
+@-moz-keyframes html-css {
+  0%   { width: 0px;  }
+  100% { width: 30%;  }
+}
+@-moz-keyframes ui {
+  0%   { width: 0px;  }
+  100% { width: 30%;  }
+}
+
+@-moz-keyframes photoshop {
+  0%   { width: 0px;  }
+  100% { width: 95%;  }
+}
+@-moz-keyframes c-plus-plus {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-moz-keyframes java {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+@-moz-keyframes office {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-moz-keyframes latex {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-moz-keyframes html-css {
+  0%   { width: 0px;  }
+  100% { width: 30%;  }
+}
+@-moz-keyframes ui {
+  0%   { width: 0px;  }
+  100% { width: 30%;  }
 }
 
 
